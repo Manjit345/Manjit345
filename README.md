@@ -4,7 +4,7 @@ I see that you have stumbled across my GitHub Profile. Well then, please take a 
 
 
 <h3 align="left">Socials:</h3>
-I am open to connect with like minded people and grow my network. Feel free to reach out to me.
+I am open to connect with like minded people and grow my network. Feel free to hit me up.
 <p align="left">
 <a href="https://twitter.com/manjitdey3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manjitdey3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manjit-dey-590280256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjit-dey-590280256" height="30" width="40" /></a>
