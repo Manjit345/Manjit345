@@ -1,7 +1,14 @@
 ## Hello there! 🕴️
 
-I see that you have stumbled across my GitHub Profile. Well then, please take a look around and allow me to introduce myself to you. 
+I see that you have stumbled across my GitHub Profile. Well then, please take a look around and allow me to introduce myself to you.
+
 <img align="center" src="https://raw.githubusercontent.com/Manjit345/Manjit345/main/GIF.gif" alt="coding gif" width="400"/>
+
+<h3 align="left">Who am I?</h3>
+* My name is Manjit Dey and I am an aspiring Data Scientist and GenAI Engineer
+* People like to follow trending affairs and similarly I like to stay updated with state of the art technologies. 
+* My career interests lies in Data Science, Machine Learning, Deep Learning and GenAI. This list is subjected to expansion as new interesting tech related fields are always showing up.
+* My purpose is to consistently improve my skills and knowledge and put them to use by solving global concerns.
 
 <h3 align="left">Socials:</h3>
 I am open to connect with like minded people and grow my network. Feel free to hit me up.
@@ -12,7 +19,7 @@ I am open to connect with like minded people and grow my network. Feel free to h
 <a href="https://discord.gg/408054691134701578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="408054691134701578" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Statistics:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manjit345&show_icons=true&locale=en" alt="manjit345" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manjit345&" alt="manjit345" /></p>
