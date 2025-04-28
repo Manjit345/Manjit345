@@ -1,7 +1,7 @@
 ## Hello there! 🕴️
 
 I see that you have stumbled across my GitHub Profile. Well then, please take a look around and allow me to introduce myself to you. 
-https://raw.githubusercontent.com/Manjit345/Manjit345/main/GIF.gif
+<img align="center" src="https://raw.githubusercontent.com/Manjit345/Manjit345/main/GIF.gif" alt="coding gif" width="400"/>
 
 <h3 align="left">Socials:</h3>
 I am open to connect with like minded people and grow my network. Feel free to hit me up.
