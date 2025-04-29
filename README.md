@@ -10,6 +10,8 @@ I see that you have stumbled across my GitHub Profile. Well then, please take a 
 
 <img src="https://raw.githubusercontent.com/Manjit345/Manjit345/main/GIF.gif" alt="coding gif" width="400"/>
 
+</div>
+
 - 👋 My name is Manjit Dey and I am an aspiring Data Scientist and GenAI Engineer
 - 🔍 People like to follow trending affairs and similarly I like to stay updated with state of the art technologies
 - 💡 My career interests lies in:
@@ -19,8 +21,6 @@ I see that you have stumbled across my GitHub Profile. Well then, please take a 
     - GenAI
     - And more as technology evolves and interesting tech fields keep showing up
 - 🎯 My purpose is to consistently improve my skills and knowledge and put them to use by solving global concerns
-
-</div>
 
 <h3 align="left">Socials:</h3>
 I am open to connect with like minded people and grow my network. Feel free to hit me up.
